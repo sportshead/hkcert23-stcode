@@ -1,3 +1,3 @@
 # stcode
 
-See writeup: https://hackmd.io/@sportshead/hkcert23#ST-Code-I---misc
+See writeup: https://sportshead.dev/2023/11/15/hkcert23/#st-code-i---misc
